@@ -34,3 +34,24 @@ nav a{
     text-decoration: none;
     color:#424247 ;
 }
+.container{
+   
+    width: 1180px;
+    height: 600px;
+    position: relative;
+}
+.banner-text {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    right: 25%;
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+}
+.btn-primary1{
+    background-color: tomato;
+}
+
+
+
