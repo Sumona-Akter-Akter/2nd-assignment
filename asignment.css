@@ -34,7 +34,7 @@ nav a{
     text-decoration: none;
     color:#424247 ;
 }
-.container{
+.container {
    
     width: 1180px;
     height: 600px;
@@ -51,6 +51,28 @@ nav a{
 }
 .btn-primary1{
     background-color: tomato;
+}
+.features{
+    margin-top: 20px;
+    display: flex;
+}
+.features .section-title{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    padding-left: 20px;
+}
+.btn-secondary{
+    border-radius: 8px;
+    color: #fff;
+    font-size: 1.25rem;
+    background: #FF5400;
+    padding: 15px 15px;
+    border: 0;
+}
+.feature-img img{
+    height: 90%;
+    margin-left: 5%;
 }
 
 
